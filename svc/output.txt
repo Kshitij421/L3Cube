@@ -1,0 +1,32 @@
+kbw@kbw-Lenovo-G50-80:~/coding/L3cube/SVC$ java Svc 
+Enter Command  
+ svc <filename> 
+ svc <Version No>
+svc abc.txt	
+Enter Command  
+ svc <filename> 
+ svc <Version No>
+svc 0
+kshitij
+warungase	
+balasaheb
+Enter Command  
+ svc <filename> 
+ svc <Version No>
+svc abc.txt
+Enter Command  
+ svc <filename> 
+ svc <Version No>
+svc 1
+kshitij
+warungase	
+Enter Command  
+ svc <filename> 
+ svc <Version No>
+svc 0
+kshitij
+warungase	
+balasaheb
+Enter Command  
+ svc <filename> 
+ svc <Version No>
