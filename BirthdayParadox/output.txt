@@ -1,0 +1,19 @@
+kbw@kbw-Lenovo-G50-80:~/coding/L3cube/birthday$ ./a.out
+How many people need to add 
+23
+How many trials need to take
+100000
+Total:50336
+Probability By Mathematical formula on 23 Person  is 0.507297
+Probability By Random Experiments on 23 Person  is 0.503360
+====================================================================================
+kbw@kbw-Lenovo-G50-80:~/coding/L3cube/birthday$ ./a.out 
+How many people need to add 
+79
+How many trials need to take
+1000
+Total:1000
+Probability By Mathematical formula on 79 Person  is 0.999891
+Probability By Random Experiments on 79 Person  is 1.000000
+====================================================================================
+kbw@kbw-Lenovo-G50-80:~/coding/L3cube/birthday$
