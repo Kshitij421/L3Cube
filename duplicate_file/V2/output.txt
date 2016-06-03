@@ -1,0 +1,357 @@
+kbw@kbw-Lenovo-G50-80:~/coding/L3cube/duplicate$ python v2.py 
+Enter Directory to find duplicate file/home/kbw/Desktop
+Node Index :0
+
+============================
+
+cee04c8441dd404284c6c18671835eb2
+File Index0
+
+/home/kbw/Desktop/tecmint/v1.py
+============================
+
+Node Index :1
+
+============================
+
+026358ead7c549e0f479e64230e7c6ea
+File Index0
+
+/home/kbw/Desktop/tecmint/v2.py
+============================
+
+Node Index :2
+
+============================
+
+08b5ef2efdc3cf80b92299b29bf03d4f
+File Index0
+
+/home/kbw/Desktop/tecmint/oo.py
+============================
+
+Node Index :3
+
+============================
+
+f84eecaafa4065eadc728ee0aed5362b
+File Index0
+
+/home/kbw/Desktop/tecmint/birthdaty1.c
+============================
+
+Node Index :4
+
+============================
+
+f5584bd0cbfc68a351f137092a19a7d8
+File Index0
+
+/home/kbw/Desktop/tecmint/birt.c
+============================
+
+Node Index :5
+
+============================
+
+d96c3a8ffd8d331803e126e4fbb3e6c3
+File Index0
+
+/home/kbw/Desktop/tecmint/birthday
+============================
+
+Node Index :6
+
+============================
+
+0d4412f456dfcc96de5cc304daab41a1
+File Index0
+
+/home/kbw/Desktop/tecmint/svc.c
+============================
+
+Node Index :7
+
+============================
+
+f1c6bc05f6bacb6ba5a75c7a7a77c3ef
+File Index0
+
+/home/kbw/Desktop/tecmint/.bitmap.txt
+============================
+
+Node Index :8
+
+============================
+
+ff4338796ea84ac9577da1d349e831b4
+File Index0
+
+/home/kbw/Desktop/tecmint/.test1.txt
+============================
+
+Node Index :9
+
+============================
+
+2f164ddd1919c05ec0556403b03c9850
+File Index0
+
+/home/kbw/Desktop/tecmint/test.txt
+File Index1
+
+/home/kbw/Desktop/tecmint/.test0.txt
+============================
+
+Node Index :10
+
+============================
+
+ea3f765d4ca03bef53d28f48f8425758
+File Index0
+
+/home/kbw/Desktop/tecmint/dup.c
+File Index1
+
+/home/kbw/Desktop/tecmint/dup1.cpp
+============================
+
+Node Index :11
+
+============================
+
+18a81415054465d829db079700851d67
+File Index0
+
+/home/kbw/Desktop/tecmint/birthday.c
+============================
+
+Node Index :12
+
+============================
+
+1b9c32557c40d98455b4f8767f6144fa
+File Index0
+
+/home/kbw/Desktop/tecmint/core
+============================
+
+Node Index :13
+
+============================
+
+0528091732c7465c25fdbc371cca4261
+File Index0
+
+/home/kbw/Desktop/tecmint/a.out
+============================
+
+Node Index :14
+
+============================
+
+000536ea1d29494d66dea758da59eb1f
+File Index0
+
+/home/kbw/Desktop/tecmint/b.c
+============================
+
+Node Index :15
+
+============================
+
+c04faee25efde5c90f324ea9baa0aad1
+File Index0
+
+/home/kbw/Desktop/textfs (copy).py
+File Index1
+
+/home/kbw/Desktop/textfs.py
+File Index2
+
+/home/kbw/Desktop/textfs (4th copy).py
+File Index3
+
+/home/kbw/Desktop/textfs (5th copy).py
+============================
+
+1.Delete File
+ 2.Exit1
+Enter Node Index In which file Exist
+15
+Enter File Index in above specified Node
+3
+In delete
+3
+File Deleted Successfully
+Node Index :0
+
+============================
+
+cee04c8441dd404284c6c18671835eb2
+File Index0
+
+/home/kbw/Desktop/tecmint/v1.py
+============================
+
+Node Index :1
+
+============================
+
+026358ead7c549e0f479e64230e7c6ea
+File Index0
+
+/home/kbw/Desktop/tecmint/v2.py
+============================
+
+Node Index :2
+
+============================
+
+08b5ef2efdc3cf80b92299b29bf03d4f
+File Index0
+
+/home/kbw/Desktop/tecmint/oo.py
+============================
+
+Node Index :3
+
+============================
+
+f84eecaafa4065eadc728ee0aed5362b
+File Index0
+
+/home/kbw/Desktop/tecmint/birthdaty1.c
+============================
+
+Node Index :4
+
+============================
+
+f5584bd0cbfc68a351f137092a19a7d8
+File Index0
+
+/home/kbw/Desktop/tecmint/birt.c
+============================
+
+Node Index :5
+
+============================
+
+d96c3a8ffd8d331803e126e4fbb3e6c3
+File Index0
+
+/home/kbw/Desktop/tecmint/birthday
+============================
+
+Node Index :6
+
+============================
+
+0d4412f456dfcc96de5cc304daab41a1
+File Index0
+
+/home/kbw/Desktop/tecmint/svc.c
+============================
+
+Node Index :7
+
+============================
+
+f1c6bc05f6bacb6ba5a75c7a7a77c3ef
+File Index0
+
+/home/kbw/Desktop/tecmint/.bitmap.txt
+============================
+
+Node Index :8
+
+============================
+
+ff4338796ea84ac9577da1d349e831b4
+File Index0
+
+/home/kbw/Desktop/tecmint/.test1.txt
+============================
+
+Node Index :9
+
+============================
+
+2f164ddd1919c05ec0556403b03c9850
+File Index0
+
+/home/kbw/Desktop/tecmint/test.txt
+File Index1
+
+/home/kbw/Desktop/tecmint/.test0.txt
+============================
+
+Node Index :10
+
+============================
+
+ea3f765d4ca03bef53d28f48f8425758
+File Index0
+
+/home/kbw/Desktop/tecmint/dup.c
+File Index1
+
+/home/kbw/Desktop/tecmint/dup1.cpp
+============================
+
+Node Index :11
+
+============================
+
+18a81415054465d829db079700851d67
+File Index0
+
+/home/kbw/Desktop/tecmint/birthday.c
+============================
+
+Node Index :12
+
+============================
+
+1b9c32557c40d98455b4f8767f6144fa
+File Index0
+
+/home/kbw/Desktop/tecmint/core
+============================
+
+Node Index :13
+
+============================
+
+0528091732c7465c25fdbc371cca4261
+File Index0
+
+/home/kbw/Desktop/tecmint/a.out
+============================
+
+Node Index :14
+
+============================
+
+000536ea1d29494d66dea758da59eb1f
+File Index0
+
+/home/kbw/Desktop/tecmint/b.c
+============================
+
+Node Index :15
+
+============================
+
+c04faee25efde5c90f324ea9baa0aad1
+File Index0
+
+/home/kbw/Desktop/textfs (copy).py
+File Index1
+
+/home/kbw/Desktop/textfs.py
+File Index2
+
+/home/kbw/Desktop/textfs (4th copy).py
+============================
