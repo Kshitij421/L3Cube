@@ -1,0 +1,100 @@
+kbw@kbw-Lenovo-G50-80:~/coding/L3cube/textfs$ python Textfs.py 
+=======MENU======
+1.Create File 
+2.Copy File
+3.delete file 
+4.display file data
+5.list  Files
+6.Exit
+1
+Enter File name
+abc.txt
+Enter File data
+
+kshitij warungase
+PICT
+File Created Successfully
+
+=======MENU======
+1.Create File 
+2.Copy File
+3.delete file 
+4.display file data
+5.list  Files
+6.Exit
+2
+Enter NewFilename
+kbw.txt
+Enter Old File name
+/home/kbw/k.txt
+File copied Successfully
+
+=======MENU======
+1.Create File 
+2.Copy File
+3.delete file 
+4.display file data
+5.list  Files
+6.Exit
+5
+abc.txt
+kbw.txt
+=======MENU======
+1.Create File 
+2.Copy File
+3.delete file 
+4.display file data
+5.list  Files
+6.Exit
+4
+Enter File name
+abc.txt
+
+kshitij warungase
+PICT
+
+=======MENU======
+1.Create File 
+2.Copy File
+3.delete file 
+4.display file data
+5.list  Files
+6.Exit
+3
+Enter File name
+abc.txt
+File Deleted Successfully
+=======MENU======
+1.Create File 
+2.Copy File
+3.delete file 
+4.display file data
+5.list  Files
+6.Exit
+5
+kbw.txt
+=======MENU======
+1.Create File 
+2.Copy File
+3.delete file 
+4.display file data
+5.list  Files
+6.Exit
+4
+Enter File name
+kbw.txt
+
+#
+#
+#
+#
+#
+#
+=======MENU======
+1.Create File 
+2.Copy File
+3.delete file 
+4.display file data
+5.list  Files
+6.Exit
+
